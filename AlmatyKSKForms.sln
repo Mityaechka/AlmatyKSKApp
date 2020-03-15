@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlmatyKSKForms", "AlmatyKSKForms\AlmatyKSKForms.csproj", "{6E2C373F-6238-4FE3-BBCA-9F269EA45492}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{90EBA7BF-27FC-4AD5-B634-29A92A374B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E2C373F-6238-4FE3-BBCA-9F269EA45492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2C373F-6238-4FE3-BBCA-9F269EA45492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2C373F-6238-4FE3-BBCA-9F269EA45492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2C373F-6238-4FE3-BBCA-9F269EA45492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {351F939D-2F31-47A0-871C-AC51FB0D767A}
+	EndGlobalSection
+EndGlobal
